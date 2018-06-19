@@ -2,6 +2,12 @@
 
 [golang](https://hub.docker.com/_/golang/)
 
+# fast run
+
+```sh
+./build-docker.sh
+```
+
 # for dev test docker images make
 
 ```sh
