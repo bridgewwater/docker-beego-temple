@@ -1,11 +1,15 @@
-# this project for docker image as `golang` make
+# Features
 
-# How to use
+this project for docker image as `golang` make dev or CI/CD as `beego` project
 
-```sh
-cd temple
-sh ./build-docker-image.sh
-```
+> wait english README.md
+
+- seeing is coding
+- less depends update
+- support docker DevOps
+
+
+
 
 # Info
 

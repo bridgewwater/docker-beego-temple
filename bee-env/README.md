@@ -2,10 +2,13 @@
 
 [golang](https://hub.docker.com/_/golang/)
 
-# fast run
+# build
 
 ```sh
-./build-docker.sh
+# see help
+make help
+# build beego image
+make image
 ```
 
 # for dev test docker images make
